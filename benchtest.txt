@@ -1,0 +1,132 @@
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #1 Message sent from 421614 to 97
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  421614
+  DstChainID :  97
+  Timestamp :  1756058283
+Reading outbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #2 Message sent from 421614 to 11155111
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  421614
+  DstChainID :  11155111
+  Timestamp :  1756058286
+Reading outbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #1 Message sent from 97 to 421614
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  97
+  DstChainID :  421614
+  Timestamp :  1756058431
+Reading outbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #2 Message sent from 97 to 11155111
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  97
+  DstChainID :  11155111
+  Timestamp :  1756058431
+Reading outbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #1 Message sent from 11155111 to 421614
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  11155111
+  DstChainID :  421614
+  Timestamp :  1756058604
+Reading outbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #2 Message sent from 11155111 to 97
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  11155111
+  DstChainID :  97
+  Timestamp :  1756058604
+Reading outbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #1 Message sent from 97 to 421614
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  97
+  DstChainID :  421614
+  Timestamp :  1756058530
+Reading inbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #1 Message sent from 11155111 to 421614
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  11155111
+  DstChainID :  421614
+  Timestamp :  1756059641
+Reading inbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #1 Message sent from 421614 to 97
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  421614
+  DstChainID :  97
+  Timestamp :  1756058321
+Reading inbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #2 Message sent from 11155111 to 97
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  11155111
+  DstChainID :  97
+  Timestamp :  1756059641
+Reading inbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #2 Message sent from 421614 to 11155111
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  421614
+  DstChainID :  11155111
+  Timestamp :  1756058328
+Reading inbox complete.
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Message :  #2 Message sent from 97 to 11155111
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  SrcChainID :  97
+  DstChainID :  11155111
+  Timestamp :  1756058544
+Reading inbox complete.

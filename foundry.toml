@@ -1,0 +1,35 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc = "0.8.27"
+evm_version = "cancun"
+
+remappings = [
+    "@c3caller/=lib/c3caller/src/",
+    "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/"
+]
+
+[rpc_endpoints]
+ localhost = "http://127.0.0.1:8545"
+ arbitrum-sepolia-rpc-url = "${ARBITRUM_SEPOLIA_RPC_URL}"
+ sepolia-rpc-url = "${SEPOLIA_RPC_URL}"
+ base-sepolia-rpc-url = "${BASE_SEPOLIA_RPC_URL}"
+ bsc-testnet-rpc-url = "${BSC_TESTNET_RPC_URL}"
+ avalanche-fuji-rpc-url = "${AVALANCHE_FUJI_RPC_URL}"
+ holesky-rpc-url = "${HOLESKY_RPC_URL}"
+ scroll-sepolia-rpc-url = "${SCROLL_SEPOLIA_RPC_URL}"
+ soneium-minato-testnet-rpc-url = "${SONEIUM_MINATO_TESTNET_RPC_URL}"
+ opbnb-testnet-rpc-url = "${OPBNB_TESTNET_RPC_URL}"
+
+[etherscan]
+ arbitrum-sepolia-key = { url = "https://api.etherscan.io/v2/api?chainid=421614", key = "${ETHERSCAN_API_KEY}" }
+ sepolia-key = { url = "https://api.etherscan.io/v2/api?chainid=11155111", key = "${ETHERSCAN_API_KEY}" }
+ bsc-testnet-key = { url = "https://api.etherscan.io/v2/api?chainid=97", key = "${ETHERSCAN_API_KEY}" }
+ base-sepolia-key = { url = "https://api.etherscan.io/v2/api?chainid=84532", key = "${ETHERSCAN_API_KEY}" }
+ scroll-sepolia-key = { url = "https://api.etherscan.io/v2/api?chainid=534351", key = "${ETHERSCAN_API_KEY}" }
+ opbnb-testnet-key = { url = "https://api.etherscan.io/v2/api?chainid=5611", key = "${ETHERSCAN_API_KEY}" }
+ holesky-key = { url = "https://api.etherscan.io/v2/api?chainid=17000", key = "${ETHERSCAN_API_KEY}" }
+ avalanche-fuji-key = { url = "https://api.etherscan.io/v2/api?chainid=43113", key = "${ETHERSCAN_API_KEY}" }
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

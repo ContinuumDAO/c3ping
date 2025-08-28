@@ -1,0 +1,718 @@
+=== C3Ping Read-Outbox Scripts Output ===
+Generated on: Thu 28 Aug 2025 22:20:34 IST
+========================================
+
+=== Output of arbitrum-sepolia ===
+Timestamp: Thu 28 Aug 2025 22:20:34 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 97
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:15:57
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 11155111
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:16:00
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 17000
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Holesky
+  Date/Time :  2025/08/28 21:16:03
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 43113
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:16:06
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 534351
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:16:09
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 1946
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:16:11
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 84532
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:16:14
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 5611
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:16:17
+  
+--------------------------------
+
+
+=== End of arbitrum-sepolia output ===
+
+----------------------------------------
+
+=== Output of bsc-testnet ===
+Timestamp: Thu 28 Aug 2025 22:20:41 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 97 to 421614
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:16:48
+  
+--------------------------------
+
+  Message :  Ping from 97 to 11155111
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:16:48
+  
+--------------------------------
+
+  Message :  Ping from 97 to 17000
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Holesky
+  Date/Time :  2025/08/28 21:16:48
+  
+--------------------------------
+
+  Message :  Ping from 97 to 43113
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:16:48
+  
+--------------------------------
+
+  Message :  Ping from 97 to 534351
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:16:48
+  
+--------------------------------
+
+  Message :  Ping from 97 to 1946
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:16:48
+  
+--------------------------------
+
+  Message :  Ping from 97 to 84532
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:16:48
+  
+--------------------------------
+
+  Message :  Ping from 97 to 5611
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:16:48
+  
+--------------------------------
+
+
+=== End of bsc-testnet output ===
+
+----------------------------------------
+
+=== Output of sepolia ===
+Timestamp: Thu 28 Aug 2025 22:20:49 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 421614
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 97
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 17000
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Holesky
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 43113
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 534351
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 1946
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 84532
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 5611
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+
+=== End of sepolia output ===
+
+----------------------------------------
+
+=== Output of base-sepolia ===
+Timestamp: Thu 28 Aug 2025 22:20:52 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 84532 to 421614
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Base Sepolia
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+  Message :  Ping from 84532 to 97
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Base Sepolia
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+  Message :  Ping from 84532 to 11155111
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Base Sepolia
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+  Message :  Ping from 84532 to 17000
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Base Sepolia
+  Destination Chain :  Holesky
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+  Message :  Ping from 84532 to 43113
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Base Sepolia
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+  Message :  Ping from 84532 to 534351
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Base Sepolia
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+  Message :  Ping from 84532 to 1946
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Base Sepolia
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+  Message :  Ping from 84532 to 5611
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Base Sepolia
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+
+=== End of base-sepolia output ===
+
+----------------------------------------
+
+=== Output of scroll-sepolia ===
+Timestamp: Thu 28 Aug 2025 22:20:55 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 534351 to 421614
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Scroll Sepolia
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:17:33
+  
+--------------------------------
+
+  Message :  Ping from 534351 to 97
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Scroll Sepolia
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:17:35
+  
+--------------------------------
+
+  Message :  Ping from 534351 to 11155111
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Scroll Sepolia
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:17:35
+  
+--------------------------------
+
+  Message :  Ping from 534351 to 17000
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Scroll Sepolia
+  Destination Chain :  Holesky
+  Date/Time :  2025/08/28 21:17:35
+  
+--------------------------------
+
+  Message :  Ping from 534351 to 43113
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Scroll Sepolia
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:17:35
+  
+--------------------------------
+
+  Message :  Ping from 534351 to 1946
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Scroll Sepolia
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:17:35
+  
+--------------------------------
+
+  Message :  Ping from 534351 to 84532
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Scroll Sepolia
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:17:35
+  
+--------------------------------
+
+  Message :  Ping from 534351 to 5611
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Scroll Sepolia
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:17:35
+  
+--------------------------------
+
+
+=== End of scroll-sepolia output ===
+
+----------------------------------------
+
+=== Output of avalanche-fuji ===
+Timestamp: Thu 28 Aug 2025 22:20:58 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 43113 to 421614
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Avalanche Fuji
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:18:07
+  
+--------------------------------
+
+  Message :  Ping from 43113 to 97
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Avalanche Fuji
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:18:07
+  
+--------------------------------
+
+  Message :  Ping from 43113 to 11155111
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Avalanche Fuji
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:18:07
+  
+--------------------------------
+
+  Message :  Ping from 43113 to 17000
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Avalanche Fuji
+  Destination Chain :  Holesky
+  Date/Time :  2025/08/28 21:18:07
+  
+--------------------------------
+
+  Message :  Ping from 43113 to 534351
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Avalanche Fuji
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:18:07
+  
+--------------------------------
+
+  Message :  Ping from 43113 to 1946
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Avalanche Fuji
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:18:07
+  
+--------------------------------
+
+  Message :  Ping from 43113 to 84532
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Avalanche Fuji
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:18:07
+  
+--------------------------------
+
+  Message :  Ping from 43113 to 5611
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Avalanche Fuji
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:18:11
+  
+--------------------------------
+
+
+=== End of avalanche-fuji output ===
+
+----------------------------------------
+
+=== Output of opbnb-testnet ===
+Timestamp: Thu 28 Aug 2025 22:21:05 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 5611 to 421614
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  OPBNB Testnet
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:19:29
+  
+--------------------------------
+
+  Message :  Ping from 5611 to 97
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  OPBNB Testnet
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:19:29
+  
+--------------------------------
+
+  Message :  Ping from 5611 to 11155111
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  OPBNB Testnet
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:19:29
+  
+--------------------------------
+
+  Message :  Ping from 5611 to 17000
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  OPBNB Testnet
+  Destination Chain :  Holesky
+  Date/Time :  2025/08/28 21:19:30
+  
+--------------------------------
+
+  Message :  Ping from 5611 to 43113
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  OPBNB Testnet
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:19:30
+  
+--------------------------------
+
+  Message :  Ping from 5611 to 534351
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  OPBNB Testnet
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:19:30
+  
+--------------------------------
+
+  Message :  Ping from 5611 to 1946
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  OPBNB Testnet
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:19:30
+  
+--------------------------------
+
+  Message :  Ping from 5611 to 84532
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  OPBNB Testnet
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:19:30
+  
+--------------------------------
+
+
+=== End of opbnb-testnet output ===
+
+----------------------------------------
+
+=== Output of holesky ===
+Timestamp: Thu 28 Aug 2025 22:21:10 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 17000 to 421614
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Holesky
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:18:48
+  
+--------------------------------
+
+  Message :  Ping from 17000 to 97
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Holesky
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:18:48
+  
+--------------------------------
+
+  Message :  Ping from 17000 to 11155111
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Holesky
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:18:48
+  
+--------------------------------
+
+  Message :  Ping from 17000 to 43113
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Holesky
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:18:48
+  
+--------------------------------
+
+  Message :  Ping from 17000 to 534351
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Holesky
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:18:48
+  
+--------------------------------
+
+  Message :  Ping from 17000 to 1946
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Holesky
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:18:48
+  
+--------------------------------
+
+  Message :  Ping from 17000 to 84532
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Holesky
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:18:48
+  
+--------------------------------
+
+  Message :  Ping from 17000 to 5611
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Holesky
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:18:48
+  
+--------------------------------
+
+
+=== End of holesky output ===
+
+----------------------------------------
+
+=== Output of soneium-minato-testnet ===
+Timestamp: Thu 28 Aug 2025 22:21:13 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 1946 to 421614
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Soneium Minato Testnet
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:20:00
+  
+--------------------------------
+
+  Message :  Ping from 1946 to 97
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Soneium Minato Testnet
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:20:00
+  
+--------------------------------
+
+  Message :  Ping from 1946 to 11155111
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Soneium Minato Testnet
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:20:00
+  
+--------------------------------
+
+  Message :  Ping from 1946 to 17000
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Soneium Minato Testnet
+  Destination Chain :  Holesky
+  Date/Time :  2025/08/28 21:20:00
+  
+--------------------------------
+
+  Message :  Ping from 1946 to 43113
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Soneium Minato Testnet
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:20:00
+  
+--------------------------------
+
+  Message :  Ping from 1946 to 534351
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Soneium Minato Testnet
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:20:00
+  
+--------------------------------
+
+  Message :  Ping from 1946 to 84532
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Soneium Minato Testnet
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:20:00
+  
+--------------------------------
+
+  Message :  Ping from 1946 to 5611
+  Recipient :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Soneium Minato Testnet
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:20:00
+  
+--------------------------------
+
+
+=== End of soneium-minato-testnet output ===
+
+----------------------------------------
+
+=== All Scripts Completed ===
+End time: Thu 28 Aug 2025 22:21:19 IST
+Total output size: 20K

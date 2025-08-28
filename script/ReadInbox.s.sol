@@ -11,6 +11,8 @@ contract ReadInbox is Script {
     address c3ping;
     address admin;
 
+    mapping (uint256 => string) chainIdToName;
+
     function run() public {
         try vm.envAddress("C3_PING") returns (address _c3ping) {
             c3ping = _c3ping;
@@ -24,6 +26,16 @@ contract ReadInbox is Script {
             revert("ADMIN not defined");
         }
 
+        chainIdToName[421614] = "Arbitrum Sepolia";
+        chainIdToName[97] = "BSC Testnet";
+        chainIdToName[11155111] = "Sepolia";
+        chainIdToName[84532] = "Base Sepolia";
+        chainIdToName[534351] = "Scroll Sepolia";
+        chainIdToName[43113] = "Avalanche Fuji";
+        chainIdToName[17000] = "Holesky";
+        chainIdToName[5611] = "OPBNB Testnet";
+        chainIdToName[1946] = "Soneium Minato Testnet";
+
         Utils utils = new Utils();
         uint256[] memory chainlist = utils.getChainlist();
 
@@ -35,11 +47,16 @@ contract ReadInbox is Script {
                 (string memory message, address sender, uint256 srcChainID, uint48 timestamp) =
                     IC3Ping(c3ping).inbox(admin, peerId);
                 console.log("\n--------------------------------\n");
-                console.log("Message : ", message);
-                console.log("Sender : ", sender);
-                console.log("SrcChainID : ", srcChainID);
-                console.log("DstChainID : ", block.chainid);
-                console.log("Timestamp : ", timestamp);
+                if (sender == address(0)) {
+                    console.log("No message received from", chainIdToName[peerId], "to", chainIdToName[block.chainid]);
+                    continue;
+                } else {
+                    console.log("Message : ", message);
+                    console.log("Sender : ", sender);
+                    console.log("Source Chain : ", chainIdToName[srcChainID]);
+                    console.log("Destination Chain : ", chainIdToName[block.chainid]);
+                    console.log("Date/Time : ", utils.timestampToDateString(timestamp));
+                }
             }
         }
         console.log("\n--------------------------------\n");

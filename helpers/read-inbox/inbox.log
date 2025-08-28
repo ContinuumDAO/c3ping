@@ -1,0 +1,514 @@
+=== C3Ping Read-Inbox Scripts Output ===
+Generated on: Thu 28 Aug 2025 22:56:32 IST
+========================================
+
+=== Output of arbitrum-sepolia ===
+Timestamp: Thu 28 Aug 2025 22:56:32 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 97 to 421614
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:17:55
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 421614
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Arbitrum Sepolia
+  Date/Time :  2025/08/28 21:21:25
+  
+--------------------------------
+
+  No message received from Holesky to Arbitrum Sepolia
+  
+--------------------------------
+
+  No message received from Avalanche Fuji to Arbitrum Sepolia
+  
+--------------------------------
+
+  No message received from Scroll Sepolia to Arbitrum Sepolia
+  
+--------------------------------
+
+  No message received from Soneium Minato Testnet to Arbitrum Sepolia
+  
+--------------------------------
+
+  No message received from Base Sepolia to Arbitrum Sepolia
+  
+--------------------------------
+
+  No message received from OPBNB Testnet to Arbitrum Sepolia
+  
+--------------------------------
+
+
+=== End of arbitrum-sepolia output ===
+
+----------------------------------------
+
+=== Output of bsc-testnet ===
+Timestamp: Thu 28 Aug 2025 22:56:38 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 97
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:17:05
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 97
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  BSC Testnet
+  Date/Time :  2025/08/28 21:21:35
+  
+--------------------------------
+
+  No message received from Holesky to BSC Testnet
+  
+--------------------------------
+
+  No message received from Avalanche Fuji to BSC Testnet
+  
+--------------------------------
+
+  No message received from Scroll Sepolia to BSC Testnet
+  
+--------------------------------
+
+  No message received from Soneium Minato Testnet to BSC Testnet
+  
+--------------------------------
+
+  No message received from Base Sepolia to BSC Testnet
+  
+--------------------------------
+
+  No message received from OPBNB Testnet to BSC Testnet
+  
+--------------------------------
+
+
+=== End of bsc-testnet output ===
+
+----------------------------------------
+
+=== Output of sepolia ===
+Timestamp: Thu 28 Aug 2025 22:56:45 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 11155111
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:17:12
+  
+--------------------------------
+
+  Message :  Ping from 97 to 11155111
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Sepolia
+  Date/Time :  2025/08/28 21:18:12
+  
+--------------------------------
+
+  No message received from Holesky to Sepolia
+  
+--------------------------------
+
+  No message received from Avalanche Fuji to Sepolia
+  
+--------------------------------
+
+  No message received from Scroll Sepolia to Sepolia
+  
+--------------------------------
+
+  No message received from Soneium Minato Testnet to Sepolia
+  
+--------------------------------
+
+  No message received from Base Sepolia to Sepolia
+  
+--------------------------------
+
+  No message received from OPBNB Testnet to Sepolia
+  
+--------------------------------
+
+
+=== End of sepolia output ===
+
+----------------------------------------
+
+=== Output of base-sepolia ===
+Timestamp: Thu 28 Aug 2025 22:56:48 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 84532
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:16:56
+  
+--------------------------------
+
+  Message :  Ping from 97 to 84532
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:17:56
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 84532
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Base Sepolia
+  Date/Time :  2025/08/28 21:21:26
+  
+--------------------------------
+
+  No message received from Holesky to Base Sepolia
+  
+--------------------------------
+
+  No message received from Avalanche Fuji to Base Sepolia
+  
+--------------------------------
+
+  No message received from Scroll Sepolia to Base Sepolia
+  
+--------------------------------
+
+  No message received from Soneium Minato Testnet to Base Sepolia
+  
+--------------------------------
+
+  No message received from OPBNB Testnet to Base Sepolia
+  
+--------------------------------
+
+
+=== End of base-sepolia output ===
+
+----------------------------------------
+
+=== Output of scroll-sepolia ===
+Timestamp: Thu 28 Aug 2025 22:56:51 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 534351
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:17:03
+  
+--------------------------------
+
+  Message :  Ping from 97 to 534351
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:18:03
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 534351
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Scroll Sepolia
+  Date/Time :  2025/08/28 21:21:33
+  
+--------------------------------
+
+  No message received from Holesky to Scroll Sepolia
+  
+--------------------------------
+
+  No message received from Avalanche Fuji to Scroll Sepolia
+  
+--------------------------------
+
+  No message received from Soneium Minato Testnet to Scroll Sepolia
+  
+--------------------------------
+
+  No message received from Base Sepolia to Scroll Sepolia
+  
+--------------------------------
+
+  No message received from OPBNB Testnet to Scroll Sepolia
+  
+--------------------------------
+
+
+=== End of scroll-sepolia output ===
+
+----------------------------------------
+
+=== Output of avalanche-fuji ===
+Timestamp: Thu 28 Aug 2025 22:56:54 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 43113
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:17:05
+  
+--------------------------------
+
+  Message :  Ping from 97 to 43113
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:18:05
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 43113
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Avalanche Fuji
+  Date/Time :  2025/08/28 21:21:35
+  
+--------------------------------
+
+  No message received from Holesky to Avalanche Fuji
+  
+--------------------------------
+
+  No message received from Scroll Sepolia to Avalanche Fuji
+  
+--------------------------------
+
+  No message received from Soneium Minato Testnet to Avalanche Fuji
+  
+--------------------------------
+
+  No message received from Base Sepolia to Avalanche Fuji
+  
+--------------------------------
+
+  No message received from OPBNB Testnet to Avalanche Fuji
+  
+--------------------------------
+
+
+=== End of avalanche-fuji output ===
+
+----------------------------------------
+
+=== Output of opbnb-testnet ===
+Timestamp: Thu 28 Aug 2025 22:57:01 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 5611
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:18:06
+  
+--------------------------------
+
+  Message :  Ping from 97 to 5611
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:18:06
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 5611
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  OPBNB Testnet
+  Date/Time :  2025/08/28 21:21:35
+  
+--------------------------------
+
+  No message received from Holesky to OPBNB Testnet
+  
+--------------------------------
+
+  No message received from Avalanche Fuji to OPBNB Testnet
+  
+--------------------------------
+
+  No message received from Scroll Sepolia to OPBNB Testnet
+  
+--------------------------------
+
+  No message received from Soneium Minato Testnet to OPBNB Testnet
+  
+--------------------------------
+
+  No message received from Base Sepolia to OPBNB Testnet
+  
+--------------------------------
+
+
+=== End of opbnb-testnet output ===
+
+----------------------------------------
+
+=== Output of holesky ===
+Timestamp: Thu 28 Aug 2025 22:57:05 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  No message received from Arbitrum Sepolia to Holesky
+  
+--------------------------------
+
+  No message received from BSC Testnet to Holesky
+  
+--------------------------------
+
+  No message received from Sepolia to Holesky
+  
+--------------------------------
+
+  No message received from Avalanche Fuji to Holesky
+  
+--------------------------------
+
+  No message received from Scroll Sepolia to Holesky
+  
+--------------------------------
+
+  No message received from Soneium Minato Testnet to Holesky
+  
+--------------------------------
+
+  No message received from Base Sepolia to Holesky
+  
+--------------------------------
+
+  No message received from OPBNB Testnet to Holesky
+  
+--------------------------------
+
+
+=== End of holesky output ===
+
+----------------------------------------
+
+=== Output of soneium-minato-testnet ===
+Timestamp: Thu 28 Aug 2025 22:57:08 IST
+
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  
+--------------------------------
+
+  Message :  Ping from 421614 to 1946
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Arbitrum Sepolia
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:17:08
+  
+--------------------------------
+
+  Message :  Ping from 97 to 1946
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  BSC Testnet
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:18:08
+  
+--------------------------------
+
+  Message :  Ping from 11155111 to 1946
+  Sender :  0xC3cA11bd8E131471904dcEd927B3FB7Edb453179
+  Source Chain :  Sepolia
+  Destination Chain :  Soneium Minato Testnet
+  Date/Time :  2025/08/28 21:21:38
+  
+--------------------------------
+
+  No message received from Holesky to Soneium Minato Testnet
+  
+--------------------------------
+
+  No message received from Avalanche Fuji to Soneium Minato Testnet
+  
+--------------------------------
+
+  No message received from Scroll Sepolia to Soneium Minato Testnet
+  
+--------------------------------
+
+  No message received from Base Sepolia to Soneium Minato Testnet
+  
+--------------------------------
+
+  No message received from OPBNB Testnet to Soneium Minato Testnet
+  
+--------------------------------
+
+
+=== End of soneium-minato-testnet output ===
+
+----------------------------------------
+
+=== All Scripts Completed ===
+End time: Thu 28 Aug 2025 22:57:13 IST
+Total output size: 16K
